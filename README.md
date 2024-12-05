@@ -1,3 +1,6 @@
+![Screenshot 2024-12-05 024103](https://github.com/user-attachments/assets/4718f384-b4a8-4a69-8b63-3f3a1cbe857c)
+![Screenshot 2024-12-05 024426](https://github.com/user-attachments/assets/ff70b816-1a9d-4700-8bf7-7e82d2cb30a3)
+
 # Report on U.S.A Police Shootings
 ## Overview
 
