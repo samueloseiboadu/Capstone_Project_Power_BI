@@ -27,15 +27,16 @@ This report considers police shootings within the context of racism in the Unite
 
 ## Key Findings
 
-1. Results show that among a total of 4 873 cases examined 4 673 were linked to males while only 222 were tied to females highlighting a difference, in gender representation. This could suggest that male suspects are more frequently involved in confrontations with law enforcement.
+1. The findings indicate a disparity in gender representation, with 4 673 of the 4 873 incidents that were reviewed being related to men and only 222 to women. This may indicate that encounters with law enforcement are more likely to involve male suspects.
    
-2. Among the recorded cases of police shootings, 2,476 involved White individuals, 1,298 involved Black individuals, 902 involved Hispanics, 93 involved Asians, 78 involved Native Americans, and 48 involved other races. When adjusted for the U.S. population size, Black and Hispanic individuals are disproportionately affected, highlighting potential racial bias in police confrontations.
+2. Among the recorded cases of police shootings, 2,476 involved Whites, 1,298 involved Blacks, 902 involved Hispanics, 93 involved Asians, 78 involved Native Americans, and 48 involved other races. When adjusted for the size of the US population, Black and Hispanic people are disproportionately affected, emphasizing the possibility of racial bias in police interactions.
    
-3. The number of police shootings shows a slight downward trend, with 965 cases in 2015 and 858 in 2019. The significant drop to 374 cases in 2020 may be due to a change in police practices, media attention and reports between police activities and citizens, cases of police shooting incidents not recorded or major economic events or political actions such as protests against police brutality.
+3. There were 965 police shootings in 2015 and 858 in 2019, indicating a modest decline. The large decline to 374 cases in 2020 could be attributed to changes in police tactics, media attention and reports on police activities and people, unrecorded police shooting occurrences, or major economic or political developments such as rallies against police brutality.
  
-4. Larger cities such as Los Angeles (with 78 police shooting cases), Phoenix (66 cases), Houston (51 cases), Las Vegas (41 cases), and San Antonio (40 cases) out of all the cities recorded in the U.S.A, have significantly more police shootings compared to smaller cities. This suggests a correlation between population size and the number of police shooting incidents, and or these cities may be known to be places with hiugh crime rate.
+4. Larger cities, such as Los Angeles (78 cases of police shooting), Phoenix (66 cases), Houston (51 cases), Las Vegas (41 cases), and San Antonio (40 cases), have much more police shootings than smaller cities in the United States. This implies a link between population size and the number of police shootings, and these cities may be recognized for having high crime rates.
    
-5. Results 2,764 police shooting incidents cases involve the use of guns, followed by sharp objects 818 cases and unknown objects with 418 rooms. Guns dominate due to their widespread ownership in the U.S. and the perceived threat they pose to law enforcement. Weapons like hand tool (1 case) and explosive (4) are far less frequent, likely because one can easily to defend himself against it.
+5. Guns were used in 2,764 police shooting cases, followed by sharp items (818 cases) and unknown objects (418 cases). Guns are dominant because of their widespread ownership in the United States and the perceived threat they pose to law enforcement. Weapons such as hand tools (1 case) and explosives (4) are much less common, most likely because they are easily defendable.
+
 
 ## Conclusion
 This report highlights key trends in U.S. police shootings, revealing significant gender and racial disparities. Males are overwhelmingly involved in these incidents, and Black and Hispanic individuals are disproportionately affected compared to their population size. Guns are the most common weapon used, and larger cities see more shootings, and may be linked to higher crime rates. These insights suggest a need to address racial biases and review policing strategies to ensure fair and equitable practices across different communities.
